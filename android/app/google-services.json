@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412006182819",
+    "project_id": "image-gallery-flutter",
+    "storage_bucket": "image-gallery-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412006182819:android:5500a8ea62de4aaf0f7416",
+        "android_client_info": {
+          "package_name": "com.brho.image_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412006182819-bdpvnvi93emr8at76klri04remdap4nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuAMqeycpADkjebqMCObXr3LVjGfKQv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412006182819-bdpvnvi93emr8at76klri04remdap4nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
